@@ -14,13 +14,17 @@ const CounterApp = () => {
   return (
     <div className='counterApp'>
       <h1>{countState}</h1>
-      <button
-        onClick={() => setCount(countState + 1)}
-      >Increase Count</button>
 
       <button
-        onClick={() => setCount(countState - 1)}
-      >Decrease Count</button>
+        onClick={() => setCount(countState - 1)}>
+        Decrease Count
+      </button>
+
+      <button
+        onClick={() => setCount(countState + 1)}>
+        Increase Count
+      </button>
+
       <h4>
         {`Is Even: ${value}`}
       </h4>

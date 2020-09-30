@@ -5,7 +5,7 @@
 Resources: 
 - [React GitHub](https://github.com/facebookexperimental/Recoil)
 
-- [Docs](https://recoiljs.org/)
+- [Recoil Docs](https://recoiljs.org/)
     - [Tutorial from docs](https://recoiljs.org/docs/basic-tutorial/intro)
 
 - Blogs: 
@@ -15,6 +15,8 @@ Resources:
     - [Recoil | ReactEurope](https://www.youtube.com/watch?v=_ISAA_Jt9kI&feature=youtu.be)
 
     - [Bytesized](https://www.youtube.com/watch?v=BchtCWxs7sA)
+
+    - [React: Intro to Recoil](https://www.youtube.com/watch?v=So4ny9Aa7Oo)
 
 
 
